@@ -1,2 +1,2 @@
-def my)_collect()
+def my_collect()
 end
