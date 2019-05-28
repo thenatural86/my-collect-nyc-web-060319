@@ -6,5 +6,5 @@ def my_collect(array)
     i += 1 
   end
   
-  array.upcase
+  array
 end
