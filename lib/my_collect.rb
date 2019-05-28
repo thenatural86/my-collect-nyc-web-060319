@@ -3,4 +3,5 @@ def my_collect(array)
   
   while i < array.length 
     yield[i]
+  end
 end
